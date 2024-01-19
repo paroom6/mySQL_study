@@ -73,6 +73,6 @@ group by
 	address	
 #having 
 #	address_count > 1	#그룹화 후에 조건을 주는 경우 사용
-order by 
+order by 	
 	address_count desc,
     address desc; 
