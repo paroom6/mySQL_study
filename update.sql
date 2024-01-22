@@ -31,3 +31,5 @@ select
 	*
 from
 	product_register_view; 
+    
+#트랜잭션, 트리거, 저장프로시저, 일반함수
